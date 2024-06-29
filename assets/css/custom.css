@@ -1,0 +1,55 @@
+.um-misc-ul {
+    list-style: none !important;
+}
+
+.um-misc-ul li a {
+    color: #d3ab39 !important;
+}
+
+
+.um input[type=submit].um-button,
+.um input[type=submit].um-button:focus {
+    background: #161b2d !important;
+}
+
+.um a.um-button:hover,
+.um input[type=submit].um-button:hover {
+    background-color: #d3ab39 !important;
+    color: #fff !important;
+}
+
+.um .um-button.um-alt,
+.um input[type=submit].um-button.um-alt {
+    border: 1px solid #d3ab39 !important;
+}
+
+body a.um-link-alt,
+body .um-toggle-gdpr {
+    color: #d3ab39 !important;
+    font-weight: bold;
+}
+
+body .select2-container .select2-choice,
+body .select2-container-multi .select2-choices,
+body .select2-drop,
+body .select2-drop-active,
+body .select2-drop.select2-drop-above,
+body .um .um-form input[type=number],
+body .um .um-form input[type=password],
+body .um .um-form input[type=search],
+body .um .um-form input[type=tel],
+body .um .um-form input[type=text],
+body .um .um-form textarea,
+body .um .upload-progress {
+    border: 1px solid #d3ab39 !important;
+}
+
+body .tnp-submit {
+    background-color: #d3ab39 !important;
+    color: #fff !important;
+}
+
+body .tnp-name,
+body .tnp-email {
+    border: 1px solid #d3ab39 !important;
+}
